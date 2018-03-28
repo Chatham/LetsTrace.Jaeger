@@ -1,5 +1,8 @@
 [![Build status][ci-img]][ci] [![NuGet][nuget-img]][nuget]
 
+# -- NOTICE --
+This library has been merged with [LetsTrace](https://github.com/Chatham/LetsTrace) and is no longer maintained.
+
 # LetsTrace.Jaeger
 LetsTrace support for [Jaeger](https://github.com/Chatham/LetsTrace.Jaeger).
 
